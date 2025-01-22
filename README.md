@@ -2,5 +2,5 @@
 
 
 
-- 🔭 I’m currently working on Inter Color
+- 🔭 I’m currently working on Trasse
 
